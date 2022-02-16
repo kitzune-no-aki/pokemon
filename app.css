@@ -1,0 +1,12 @@
+body{
+    background-color: chocolate;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    padding-top: 1em;
+    color: peachpuff;
+}
+#container{
+    padding: 3em;
+}
