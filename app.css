@@ -7,6 +7,12 @@ h1{
     padding-top: 1em;
     color: peachpuff;
 }
-#container{
-    padding: 3em;
+.pokemon{
+    display: inline-block;
+    text-align: center;
+    color: peachpuff;
+}
+
+.pokemon img{
+    display: block;
 }
